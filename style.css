@@ -1,0 +1,99 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+h1{
+  color: #11999E;
+  margin-top: 50px;
+  font-size: 4em;
+  font-family: 'Quicksand', sans-serif;
+}
+h2{
+  font-family: 'Quicksand', sans-serif;
+  color: #66BFBF;
+}
+h3{
+   color: #11999E;
+  font-family: 'Quicksand', sans-serif;
+}
+a{
+  color: #11999E;
+}
+.top-contaioner{
+  background-color: #E4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+.pro{
+  text-decoration: underline;
+}
+.pra{
+  font-size: 2.5rem;
+  color: #11999E;
+  font-weight: normal;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.skill-row{
+  width: 50%;
+  margin: 0 auto 0 auto;
+  text-align: left;
+  line-height: 2;
+}
+.man-img{
+  width: 10%;
+}
+.rea-img{
+  width: 25%;
+  float: left;
+  margin: 0 30px 0 0;
+}
+.man2-img{
+  width: 20%;
+  float: right;
+  margin: 0 30px 0 0;
+}
+.contact-me{
+  text-align: center;
+  margin-bottom: 30px;
+}
+.bottom-container{
+  background-color: #66bfbf;
+  margin-top: 100px;
+}
+.btn{
+  font-family: arial:
+  font-color: 28px;
+  text-decoration: none;
+  background-color: #66bfbf;
+  color: #ffff;
+  border-radius: 2px;
+  padding: 15px;
+}
+.pragrap{
+margin-bottom: 70px;
+}
+.bottom-container{
+  padding: 30px;
+}
+.tag{
+  margin-top:  10px;
+}
+.footer-link{
+  padding: 20px;
+  text-decoration: none;
+}
+hr{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 5%;
+}
